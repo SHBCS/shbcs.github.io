@@ -1,0 +1,15 @@
+I"�<p>Für manche Lösungen muss man nicht mit Kanonen auf Spatzen schießen, da tut es auch eine einfache Lösung. So zum Beispiel, wenn man nicht direkt ein Wordpress Blog aufseztzen möchte ein statischer Webseiten-Generator. Davon gibt es inzwischen sehr viele, z.B. :</p>
+
+<p>Hugo</p>
+
+<p>Hugo gehört eher zu den leicht zu installierenden statischen Webseitengeneratoren. Die Dokumentation, auch wie man Hugo installiert, ist umfassend und man muss nicht tausend Pakete und Abhängigkeiten installieren, um Hugo ans Laufen zu bringen.</p>
+
+<p>Es hat eine große Menge an vorgefertigten Themes, die es einfach machen, das Aussehen leicht zu ändernählen, den Sie für Ihre Website wünschen, und eines der wichtigsten Features, die das Hugo-Team hat, ist seine Build-Geschwindigkeit.</p>
+
+<p>Um eine Änderung an Ihrer Website vorzunehmen, indem Sie Inhalte hinzufügen oder bearbeiten oder das Design ändern, müssen Sie die Website “neu erstellen”, d. h., führen Sie den Prozess der Kombination von Inhalt mit einem Design in HTML für jede Seite durch. Selbst ein kleiner Unterschied in der Build-Speed-Leistung kann den Unterschied zwischen Warten von Sekunden und Minuten, um das Ergebnis einer Änderung, die Sie gemacht haben, machen, und Hugo arbeitet hart daran, der Schnellste dabei zu sein.</p>
+
+<p>Wenn Sie eine Website aus vorhandenen Daten erstellen, macht hugos Funktion “Datengesteuerte Inhalte” es relativ einfach, den Inhalt der Website in CSV- oder JSON-Formaten bereitzustellen. Dies kann eine nützliche Möglichkeit sein, einige vorhandene Daten, die Sie der Welt zur Welt verfügbar machen möchten, bequemer zu nutzen, dass sie durchsuchen und navigieren können, ohne Excel oder Google Tabellen ansteuern zu müssen.</p>
+
+<h3 id="tbd">tbd.</h3>
+
+:ET
